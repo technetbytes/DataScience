@@ -30,5 +30,6 @@ The total no.s of tweets are 6468 in the dataset. Here’s a quick detail of the
 
 DateSet File Name
 -----------------
-HillaryClinton_tweets.csv
 RealDonaldTrump_tweets.csv
+HillaryClinton_tweets.csv
+
